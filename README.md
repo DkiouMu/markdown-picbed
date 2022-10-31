@@ -3,8 +3,8 @@
 A small repo for my Markdown pics.
 
 For my:
-+ ~~Typora~~ (Deprecated)
++ Typora (Waiting for my wallet...)
 + VNote
 + ~~Marktext~~ (Unavailable)
 
-In fact only VNote can use this repo. That's s**tty.
+In fact, at present, only VNote can upload my pics. That's awesome.
